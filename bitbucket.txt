@@ -1,0 +1,51 @@
+git remote add origin https://bin21605345-2@bitbucket.org/bin21605345-2/program-ex6.1.git
+git push -u origin master
+
+git clone https://bin21605345-2@bitbucket.org/bin21605345-2/program-ex6.1.git
+cd program-ex6.1
+echo "# My project's README" >> README.md
+git add README.md
+git commit -m "Initial commit"
+git push -u origin master
+
+
+git remote add origin https://bin21605345-2@bitbucket.org/bin21605345-2/program-ex6.2_bin.git
+
+git clone https://bin21605345-2@bitbucket.org/bin21605345-2/program-ex6.2_bin.git
+
+
+git checkout master
+git remote add bin21605345-2/program-ex6.2_bin https://bin21605345-2@bitbucket.org/bin21605345-2/program-ex6.2_bin.git
+git fetch bin21605345-2/program-ex6.2_bin
+git merge --no-ff -m 'Merged in bin21605345-2/program-ex6.2_bin (pull request #2)' remotes/bin21605345-2/program-ex6.2_bin/master
+
+git clone https://bin21605345-2@bitbucket.org/21605345/program-ex6.2_liu.git
+git remote add origin  https://bin21605345-2@bitbucket.org/21605345/program-ex6.2_liu.git
+
+
+git remote add origin https://yu_uvsq21705834@bitbucket.org/yu_uvsq21705834/program-ex5.6.1.git
+git push -u origin master
+
+git clone https://yu_uvsq21705834@bitbucket.org/yu_uvsq21705834/program-ex5.6.1.git
+cd program-ex5.6.1
+echo "# My project's README" >> README.md
+git add README.md
+git commit -m "Initial commit"
+git push -u origin master
+
+
+
+git config --global user.name "hongyu"
+
+git config --global user.email "wowbingo@126.com"
+
+
+git remote add origin https://yu_uvsq21705834@bitbucket.org/yu_uvsq21705834/program-ex5.6.3.git
+git push -u origin master
+
+git clone https://yu_uvsq21705834@bitbucket.org/yu_uvsq21705834/program-ex5.6.3.git
+cd program-ex5.6.3
+echo "# My project's README" >> README.md
+git add README.md
+git commit -m "Initial commit"
+git push -u origin master
