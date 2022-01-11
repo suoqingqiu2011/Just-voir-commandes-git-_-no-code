@@ -2,7 +2,11 @@
 ![xgcalendar screenshot1](capture1.jpg) 
 
 # New git commandes steps
-https://stackoverflow.com/questions/52533318/how-to-solve-the-requested-url-returned-error-403-in-git-repository
+![xgcalendar screenshot2](capture1.jpg) 
+![xgcalendar screenshot3](capture1.jpg) 
+![xgcalendar screenshot4](capture1.jpg) 
+![xgcalendar screenshot5](capture1.jpg) 
+![xgcalendar screenshot6](capture1.jpg) 
 
 For example: (Personal access tokens)
 
