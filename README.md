@@ -2,11 +2,11 @@
 ![xgcalendar screenshot1](capture1.jpg) 
 
 # New git commandes steps
-![xgcalendar screenshot2](capture1.jpg) 
-![xgcalendar screenshot3](capture1.jpg) 
-![xgcalendar screenshot4](capture1.jpg) 
-![xgcalendar screenshot5](capture1.jpg) 
-![xgcalendar screenshot6](capture1.jpg) 
+![xgcalendar screenshot2](capture2.png) 
+![xgcalendar screenshot3](capture3.png) 
+![xgcalendar screenshot4](capture4.png) 
+![xgcalendar screenshot5](capture5.png) 
+![xgcalendar screenshot6](capture6.png) 
 
 For example: (Personal access tokens)
 
