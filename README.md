@@ -1,7 +1,7 @@
 # Just-voir-commandes-git-.-
 ![xgcalendar screenshot1](capture1.jpg) 
 
-# New git commandes steps
+# New git commandes steps (Since August 13, 2021)
 ![xgcalendar screenshot2](capture2.png) 
 ![xgcalendar screenshot3](capture3.png) 
 ![xgcalendar screenshot4](capture4.png) 
